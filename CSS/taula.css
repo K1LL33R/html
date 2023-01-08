@@ -1,0 +1,22 @@
+body{
+	color: white;
+	zoom: 90%
+}
+
+table {
+	border: 1px solid rgb(255, 255, 255);
+	width: 700px;
+	border-color: rgb(255, 255, 255);
+}
+tr {
+	height: 120px;
+}
+
+td {
+	border: 1px solid;
+	text-align: center;
+}
+
+#tabla{
+	margin-top: 550px;
+}
